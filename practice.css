@@ -1,0 +1,9 @@
+.heading {
+  color: pink;
+}
+
+.MainContainer {
+  background-image: url("https://t4.ftcdn.net/jpg/02/68/80/71/360_F_268807166_oPVMMlJcxy4OjBDkl9JPxqfJeMC98yNm.jpg");
+  height: 50vh;
+  width: 100dvw;
+}
